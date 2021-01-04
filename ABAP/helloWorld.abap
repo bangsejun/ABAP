@@ -1,0 +1,1 @@
+write 'Hello, World!'. "출력 함수 : write , 항상 끝날 때는 .(마침표)
